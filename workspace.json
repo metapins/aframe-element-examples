@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "web-components": "apps/web-components",
+    "web-components-e2e": "apps/web-components-e2e"
+  }
+}
